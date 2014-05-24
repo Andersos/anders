@@ -1,14 +1,14 @@
 {
-	"name": "leftiefriele",
-	"version": "1.0.0",
-	"description": "This is me",
-	"main": "index.js",
-	"keywords": [
-		"espen",
-		"espen dalløkken",
-		"leftieFriele"
-	],
-	"author": "Aud and Jarle Dalløkken",
-	"licence": "Married",
-	"homepage": "http://dallokken.com/espen/"
+  "name": "leftiefriele",
+  "version": "1.0.1",
+  "description": "This is me",
+  "main": "index.js",
+  "keywords": [
+    "espen",
+    "espen dalløkken",
+    "leftieFriele"
+  ],
+  "author": "Aud and Jarle Dalløkken",
+  "licence": "Married",
+  "homepage": "http://dallokken.com/espen/"
 }
