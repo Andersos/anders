@@ -1,10 +1,10 @@
 Module for outputing me.
 
-[![NPM](https://nodei.co/npm/leftiefriele.png?stars=true&downloads=true)](https://npmjs.org/package/leftiefriele)
+[![NPM](https://nodei.co/npm/anders.png?stars=true&downloads=true)](https://npmjs.org/package/anders)
 
 # Usage
-	var leftie = require('leftiefriele');
-	leftie();
+	var anders = require('anders');
+	anders();
 
 # Contributions
 
