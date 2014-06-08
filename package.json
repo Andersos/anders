@@ -1,12 +1,48 @@
 {
-  "name": "anders",
-  "version": "0.0.1",
-  "description": "This is me",
-  "main": "index.js",
-  "keywords": [
-    "anders",
-    "anders olsen sandvik",
-    "andersos"
-  ],
-  "homepage": "https://andersos.net.com/"
+    "name": "anders",
+    "description": "This is me",
+    "version": "0.0.2",
+    "homepage": "https://github.com/andersos/anders",
+    "keywords": [
+        "Anders",
+        "me",
+        "Anders Olsen Sandvik",
+        "andersos"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andersos/anders.git"
+    },
+    "bugs": {
+        "url": "https://github.com/andersos/anders/issues"
+    },
+    "author": {
+        "name": "Anders Olsen Sandvik",
+        "email": "npm@andersos.net",
+        "url": "https://andersos.net/"
+    },
+    "contributors": [
+        {
+            "name": "Anders Olsen Sandvik",
+            "email": "npm@andersos.net",
+            "url": "https://andersos.net/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/andersos/anders/blob/master/LICENSE.txt"
+        }
+    ],
+    "main": "index.js",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "private": false,
+    "scripts": {
+    }
 }
